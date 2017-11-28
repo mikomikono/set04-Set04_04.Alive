@@ -11,7 +11,7 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/mikomikono/set04-Set04_04.Alive";
     }
 
     public static String travisUrl() {
