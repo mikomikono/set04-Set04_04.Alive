@@ -15,7 +15,7 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/mikomikono/set04-Set04_04.Alive";
     }
 
     public static String herokuUrl() {
